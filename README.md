@@ -21,7 +21,7 @@ This repository serves as my **professional AI portfolio**, showcasing hands-on 
 ---
 
 ## 📂 Portfolio Categories
-- **Agentic AI & Automation Projects**
+- **GenAI Powered Automation Projects**
 - **Responsible AI & Governance Case Studies**
 - **Machine Learning Projects**
 - **No-Code & Workflow Automation**
