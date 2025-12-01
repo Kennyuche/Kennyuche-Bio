@@ -1,7 +1,4 @@
-<p align="center">
-  <!-- images/banner.png -->
-  <img src="./images/banner.png" alt="Kennedy Amaihe GitHub Banner" width="100%" />
-</p>
+
 
 # 👋 Hi, I'm Kennedy Amaihe  
 ### Agentic AI • AI Automation • Responsible AI & Governance Enthusiast  
@@ -98,6 +95,6 @@ No-code agent workflows for business process automation using Loubby AI + custom
 
 - **LinkedIn:** https://www.linkedin.com/in/kennedy-amaihe-907a53126  
 - **GitHub:** https://github.com/Kennyuche  
-- **Email:** *(optional — add if you want recruiters to reach you easily)*
+
 
 💬 *I'm open to AI engineering roles, automation projects, research collaborations, and responsible AI work. Feel free to reach out!*
