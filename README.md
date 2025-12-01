@@ -73,8 +73,6 @@ Each project includes:
 
 ## 📌 Featured Projects  
 
-> *(Tip: pin these on your GitHub profile for maximum visibility.)*
-
 ### 🔹 **Automating Business Analysis with Agentic AI**  
 AI-driven workflow automation for order processing, analytics, exception routing, and business impact scoring.  
 **Skills:** Agentic AI, workflow automation, system design, documentation  
@@ -87,10 +85,19 @@ Developed during BCG simulation; handles user queries, data lookup, and reasonin
 No-code agent workflows for business process automation using Loubby AI + custom logic.  
 **Skills:** Automation design, orchestration, low-code AI  
 
-*(Add links once you upload / organize your repos.)*
+---
+### 🛠 Skills & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-008080?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00FF00?style=for-the-badge)
+
 
 ---
-
 ## 🔗 Connect With Me  
 
 - **LinkedIn:** https://www.linkedin.com/in/kennedy-amaihe-907a53126  
