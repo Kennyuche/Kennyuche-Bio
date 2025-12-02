@@ -1,96 +1,96 @@
+# 👨‍💻 Kennedy AMaihe | AI • Data Analytics • Automation Engineer
 
+Welcome to my GitHub portfolio!  
+I build **AI-powered systems, data-driven solutions, and scalable no-code/low-code automations** for real-world business and technical problems.
 
-# 👋 Hi, I'm Kennedy Amaihe  
-### Agentic AI • AI Automation • Responsible AI & Governance Enthusiast  
-
-Welcome to my GitHub portfolio!
-
-I am an aspiring **AI Engineer** and **Research-Oriented Technologist** specializing in:
-
-- **Agentic AI Systems**  
-- **AI Automation & Workflow Orchestration**  
-- **Responsible AI, Ethics & Governance**
-
-My work focuses on building AI systems that are **scalable**, **intelligent**, **safe**, and **aligned with human values**.  
-Here you'll find hands-on projects across agentic AI, automation pipelines, chatbots, data analysis, and applied machine learning — using both **code-based** and **no-code/low-code** technologies.
+📍 Focus Areas:  
+- Machine Learning & Data Science  
+- Generative AI Systems  
+- Workflow Automation (No-Code & Low-Code)  
+- Business Process Optimization
 
 ---
 
-## 🚀 Core Skills  
+## 🚀 Machine Learning, Data Science & GenAI Projects
 
-- **Python for AI & Automation**  
-- **Agentic AI Systems (Reasoning + Tool-Using Agents)**  
-- **AI Workflow Automation & Orchestration**  
-- **Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)**  
-- **Chatbot & Conversational AI Development**  
-- **Responsible AI, Ethics & Governance Frameworks**  
-- **Model Evaluation, Testing & Monitoring**  
-- **No-Code / Low-Code AI Automation Tools**
+A collection of projects covering predictive modeling, data analysis, and generative AI systems.
 
----
+🔗 **Main Repository:**  
+👉 https://github.com/Kennyuche/Machine-Learning-Data-Science-GenAI
 
-## 📂 Portfolio Categories  
-
-### 🧠 **Machine Learning / Data Science / GenAI Projects**  
-Real-world projects with datasets, modeling pipelines, and performance evaluation.
-
-### ⚙️ **AI Automation & Workflow Orchestration**  
-Agentic AI flows, multi-step automation, and no-code AI systems.
-
-### 🔍 **Responsible AI & Governance Case Studies**  
-Model risk analysis, governance frameworks, fairness reviews, and compliance-oriented work.
-
-Each project includes:  
-✔ Source Code  
-✔ Documentation  
-✔ Datasets (when allowed)  
-✔ Problem → Solution Explanation  
+**Key Areas Covered:**
+- Supervised & Unsupervised Learning
+- Data Cleaning & Feature Engineering
+- Model Evaluation & Optimization
+- GenAI Applications
+- Real-world Business Use Cases
+- Python
+- Transformers
+- Computer Vision
+- NLP
+- LLM
 
 ---
 
-## 🏆 Certifications & Experience  
+## ⚙️ No-Code & Low-Code Automation Projects & Reports
 
-- **AWS Certified AI Practitioner – Amazon Web Services**  
-- **Future AWS AI Scientist Nanodegree – Udacity**  
-- **Introduction to Generative AI – AWS**  
-- **Loubby AI Low-Code/No-Code Automation Bootcamp**  
-- **NeuralSeek AI Agent Developer Internship**  
-- **Datacom Automation AI Accelerator – From Co-Pilot to Autonomous Agent**  
-- **TATA GenAI Data Analytics & Strategy Program**  
-- **BCG GenAI Consulting Simulation – AI-Powered Financial Chatbot**  
-- **Google IT Support Professional Certificate**
+This repository contains practical workflow automations, system integrations, and technical reports built using no-code and low-code tools.
 
----
+🔗 **Main Repository:**  
+👉 https://github.com/Kennyuche/No-Code-Low-Code-Projects-and-Reports
 
-## 🎯 Career Focus  
-
-- **Agentic AI Engineer**  
-- **AI Automation Engineer**  
-- **Responsible AI / AI Governance Analyst**  
-- **AI Systems & Safety Researcher**
+**Tools & Platforms Used:**
+- n8n
+- API Integrations
+- Webhooks
+- Automation & Orchestration Systems
+- Business Process Automation
 
 ---
 
-## 📌 Featured Projects  
+## 🛠️ Technical Skills
 
-### 🔹 **Automating Business Analysis with Agentic AI**  
-AI-driven workflow automation for order processing, analytics, exception routing, and business impact scoring.  
-**Skills:** Agentic AI, workflow automation, system design, documentation  
+**Programming & Data**
+- Python, Pytorch
+- Pandas, NumPy, Scikit-Learn
+- Data Visualization & Analytics
 
-### 🔹 **Financial AI Chatbot – GenAI + RAG System**  
-Developed during BCG simulation; handles user queries, data lookup, and reasoning.  
-**Skills:** Chatbots, prompt engineering, retrieval augmentation  
+**AI & Machine Learning**
+- Supervised & Unsupervised ML
+- Model Deployment Concepts
+- Generative AI & LLM Workflows
 
-### 🔹 **Low-Code AI Automation Pipelines**  
-No-code agent workflows for business process automation using n8n + custom logic.  
-**Skills:** Automation design, orchestration, low-code AI  
-
+**Automation**
+- n8n
+- API Automation
+- Webhook-based Systems
+- No-Code/Low-Code Integrations
+- Retrieval-Augmented Generation (RAG)
 
 ---
-## 🔗 Connect With Me  
 
-- **LinkedIn:** https://www.linkedin.com/in/kennedy-amaihe-907a53126  
-- **GitHub:** https://github.com/Kennyuche  
+## 📈 What You’ll Find in My Work
 
+- Real-world problem solving
+- Clean project structure
+- Business-focused AI solutions
+- End-to-end automation workflows
+- Technical documentation & reports
 
-💬 *I'm open to AI engineering roles, automation projects, research collaborations, and responsible AI work. Feel free to reach out!*
+---
+
+## 📬 Contact & Collaboration
+
+I’m open to:
+- Freelance work
+- Remote roles
+- Technical collaborations
+- AI & automation consulting
+
+📎 GitHub: https://github.com/Kennyuche  
+📧 Linkedin: https://www.linkedin.com/in/kennedy-amaihe-907a53126
+
+---
+
+⭐ If you find my work useful, feel free to star the repositories!
+
